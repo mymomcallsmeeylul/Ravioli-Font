@@ -2,6 +2,8 @@
 
 **A display typeface inspired by hand-painted signage from a San Francisco butcher shop.**
 
+<img width="714" height="480" alt="image" src="https://github.com/user-attachments/assets/a7455c56-7282-4461-a61c-4acd9597d7d0" />
+
 Ravioli is a free, open-source font born from a chance encounter with the hand-lettered
 window signs of **Little City Market** — a family-run butcher shop in North Beach 
 (San Francisco's Little Italy), painted by an Italian father and son. The lettering had 
